@@ -1,9 +1,9 @@
 ## Faten Ben Hassine - Data scientist 
 
-- 📓: adding experience in years 
+- 📓: work experience 2+ years in Machine learning and Data Science 
 - 🎓: B.Sc in electronics, electrical engeneering and automation at [Faculty of Mathematical sciences, physical and natural sciences of Tunis Manar](https://fst.rnu.tn/fr/departement-de-physique) 
-- 🎓: MRes in electroncs at [Faculty of Mathematical sciences, physical and natural sciences of Tunis Manar] which a focus on Machine Learning
-- 📓: Master's Thesis Machine Learning: Implementation of AI algorithm for theclassification of neurological disease on Python
+- 🎓: MRes in electronics + a focus on Machine Learning at [Faculty of Mathematical sciences, physical and natural sciences of Tunis Manar](https://fst.rnu.tn) 
+- 📓: Master's Thesis Machine Learning: Implementation of AI algorithms for the classification of neurological disease on Python. 
 
 ### Recent projects
 
